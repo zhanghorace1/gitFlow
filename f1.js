@@ -5,3 +5,7 @@ const feature1Commit1 = () => {
 const feature1Commit2 = () => {
   return 'rebased with main to get all updates'
 }
+
+const feature1Commit3 = () => {
+  return 'updating f1 while behind main'
+}
